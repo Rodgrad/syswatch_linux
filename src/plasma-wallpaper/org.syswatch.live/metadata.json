@@ -1,0 +1,10 @@
+{
+  "KPackageStructure": "Plasma/Wallpaper",
+  "KPlugin": {
+    "Id": "org.syswatch.live",
+    "Name": "SysWatch Live",
+    "Description": "Live hardware dashboard beneath desktop icons",
+    "Icon": "utilities-system-monitor",
+    "Version": "1.0"
+  }
+}
